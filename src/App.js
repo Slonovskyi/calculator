@@ -32,8 +32,7 @@ function App() {
           <Button variant="contained" onClick={() => handleClick('7')} className="button">7</Button>
           <Button variant="contained" onClick={() => handleClick('8')} className="button">8</Button>
           <Button variant="contained" onClick={() => handleClick('9')} className="button">9</Button>
-          <Button variant="contained" color="success"git merge main --allow-unrelated-histories
- onClick={() => handleClick('C')} className="button">C</Button>
+          <Button variant="contained" color="success" onClick={() => handleClick('C')} className="button">C</Button>
         </Stack>
         <Stack direction="row" spacing={1}>
           <Button variant="contained" onClick={() => handleClick('4')} className="button">4</Button>
